@@ -1,5 +1,8 @@
 # 23种设计模式与7大原则
 
+1. [https://git.oschina.net/longshu/DesignPatterns](https://git.oschina.net/longshu/DesignPatterns)
+2. [https://github.com/Xlongshu/DesignPatterns](https://github.com/Xlongshu/DesignPatterns)
+
 [Java中的23种设计模式与7大原则.md](Java中的23种设计模式与7大原则.md)
 
 - 创建型模式:

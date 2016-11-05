@@ -87,3 +87,7 @@
 > 尽量使用组合和聚合少使用继承的关系来达到复用的原则.
 
 *2016/10/24 星期一 20:52:52 *
+
+- 链接:
+1. [https://git.oschina.net/longshu/DesignPatterns](https://git.oschina.net/longshu/DesignPatterns)
+2. [https://github.com/Xlongshu/DesignPatterns](https://github.com/Xlongshu/DesignPatterns)
