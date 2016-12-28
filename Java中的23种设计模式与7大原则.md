@@ -89,5 +89,6 @@
 *2016/10/24 星期一 20:52:52 *
 
 - 链接:
-1. [https://git.oschina.net/longshu/DesignPatterns](https://git.oschina.net/longshu/DesignPatterns)
-2. [https://github.com/Xlongshu/DesignPatterns](https://github.com/Xlongshu/DesignPatterns)
+1. [CSDN](http://blog.csdn.net/u014335219/article/category/6480029)
+2. [OSChina](https://git.oschina.net/longshu/DesignPatterns)
+3. [GitHub](https://github.com/Xlongshu/DesignPatterns)
