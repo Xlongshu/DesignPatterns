@@ -1,0 +1,25 @@
+target/
+
+### Eclipse ###
+.classpath
+.project
+.mymetadata
+.settings/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+bin/
+test-output/
+.DS_Store
