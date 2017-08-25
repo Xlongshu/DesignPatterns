@@ -1,6 +1,6 @@
 # 23种设计模式与7大原则
 
-1. [CSDN](http://blog.csdn.net/u014335219/article/category/6480029)
+1. [CSDN](http://blog.csdn.net/Xlongshu/article/category/6899133)
 2. [OSChina](https://git.oschina.net/longshu/DesignPatterns)
 3. [GitHub](https://github.com/Xlongshu/DesignPatterns)
 
